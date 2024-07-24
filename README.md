@@ -12,7 +12,7 @@ Desenvolvedor Java e estudante de Análise e Desenvolvimento de Sistemas. Possuo
 
 ### Contato
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF5722&color=FFFFFF)]((https://www.linkedin.com/in/lucas-rocha-a58233225/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF5722&color=FFFFFF)](https://www.linkedin.com/in/lucas-rocha-a58233225/)
 
 
 ### GitHub Stats
